@@ -152,4 +152,9 @@ Our mentors with their emails and links to their GitHub accounts:
 <br>
 
 ![Screenshot alt text](assets/IMG-20230204-WA0033.jpg)
-
+![Screenshot alt text](assets/IMG-20230204-WA0034.jpg)
+![Screenshot alt text](assets/IMG-20230204-WA0035.jpg)
+![Screenshot alt text](assets/IMG-20230204-WA0036.jpg)
+![Screenshot alt text](assets/IMG-20230204-WA0038.jpg)
+![Screenshot alt text](assets/IMG-20230204-WA0039.jpg)
+![Screenshot alt text](assets/IMG-20230204-WA0040.jpg)
