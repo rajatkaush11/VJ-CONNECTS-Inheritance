@@ -9,7 +9,6 @@
 <div align="center">
    <strong>VJConnect</strong> - VJTI, MADE EASY!<br>
   CoC Inheritance 2022 || Team Marshmellows <br> <br>
-  Add any <a href="https://shields.io/">Shields</a> here
 </div>
 <hr>
 
