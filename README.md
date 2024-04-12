@@ -151,33 +151,10 @@ Our mentors with their emails and links to their GitHub accounts:
 ## 📱Screenshots
 <br>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <div style="flex-basis: 30%; margin-bottom: 20px;">
-        <img src="assets/IMG-20230204-WA0033.jpg" alt="Register Page" width="100%" height="auto">
-    </div>
-    <div style="flex-basis: 30%; margin-bottom: 20px;">
-        <img src="assets/IMG-20230204-WA0040.jpg" alt="Register Page" width="100%" height="auto">
-    </div>
-    <div style="flex-basis: 30%; margin-bottom: 20px;">
-        <img src="assets/IMG-20230204-WA0034.jpg" alt="Register Page" width="100%" height="auto">
-    </div>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <div style="flex-basis: 30%; margin-bottom: 20px;">
-        <img src="assets/IMG-20230204-WA0038.jpg" alt="Register Page" width="100%" height="auto">
-    </div>
-    <div style="flex-basis: 30%; margin-bottom: 20px;">
-        <img src="assets/IMG-20230204-WA0036.jpg" alt="Register Page" width="100%" height="auto">
-    </div>
-    <div style="flex-basis: 30%; margin-bottom: 20px;">
-        <img src="assets/IMG-20230204-WA0035.jpg" alt="Register Page" width="100%" height="auto">
-    </div>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <div style="flex-basis: 30%; margin-bottom: 20px;">
-        <img src="assets/IMG-20230204-WA0039.jpg" alt="Register Page" width="100%" height="auto">
-    </div>
-</div>
-
+<img src="assets/IMG-20230204-WA0033.jpg" alt="Register Page" width="300" height="600">
+<img src="assets/IMG-20230204-WA0040.jpg" alt="Register Page" width="300" height="600">
+<img src="assets/IMG-20230204-WA0034.jpg" alt="Register Page" width="300" height="600">
+<img src="assets/IMG-20230204-WA0038.jpg" alt="Register Page" width="300" height="600">
+<img src="assets/IMG-20230204-WA0036.jpg" alt="Register Page" width="300" height="600">
+<img src="assets/IMG-20230204-WA0035.jpg" alt="Register Page" width="300" height="600">
+<img src="assets/IMG-20230204-WA0039.jpg" alt="Register Page" width="300" height="600">
