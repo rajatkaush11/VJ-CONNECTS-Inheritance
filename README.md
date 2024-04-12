@@ -94,7 +94,6 @@ List down all the future plans for the project here
 ## 💸Applications
 
 1. Academic Records
-```
 Academic records are vital for any student as they are extremely valuable for everything ranging from an upcoming exam to future prospects such as masters. Collecting all this important data in one place is very useful and convenient.
 ```
 2. VJTI Maps
