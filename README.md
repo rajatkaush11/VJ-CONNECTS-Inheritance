@@ -151,5 +151,5 @@ Our mentors with their emails and links to their GitHub accounts:
 ## 📱Screenshots
 <br>
 
-![Screenshot alt text](https://i.redd.it/qp8ocyzvyj8a1.jpg "Here is a screenshot")
+![Screenshot alt text](assets/IMG-20230204-WA0033.jpg)
 
