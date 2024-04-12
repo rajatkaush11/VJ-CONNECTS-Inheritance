@@ -151,7 +151,7 @@ Our mentors with their emails and links to their GitHub accounts:
 ## 📱Screenshots
 <br>
 
-![Screenshot alt text](assets/IMG-20230204-WA0033.jpg)
+![Screenshot alt text](assets/IMG-20230204-WA0033.jpg "Register Page " {width= 40 px height = 400 px})
 ![Screenshot alt text](assets/IMG-20230204-WA0034.jpg)
 ![Screenshot alt text](assets/IMG-20230204-WA0035.jpg)
 ![Screenshot alt text](assets/IMG-20230204-WA0036.jpg)
