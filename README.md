@@ -152,9 +152,9 @@ Our mentors with their emails and links to their GitHub accounts:
 <br>
 
 <img src="assets/IMG-20230204-WA0033.jpg" alt="Register Page" width="300" height="600">
-![Screenshot alt text](assets/IMG-20230204-WA0034.jpg)
-![Screenshot alt text](assets/IMG-20230204-WA0035.jpg)
-![Screenshot alt text](assets/IMG-20230204-WA0036.jpg)
-![Screenshot alt text](assets/IMG-20230204-WA0038.jpg)
-![Screenshot alt text](assets/IMG-20230204-WA0039.jpg)
-![Screenshot alt text](assets/IMG-20230204-WA0040.jpg)
+<img src="assets/IMG-20230204-WA0034.jpg" alt="Register Page" width="300" height="600">
+<img src="assets/IMG-20230204-WA0035.jpg" alt="Register Page" width="300" height="600">
+<img src="assets/IMG-20230204-WA0036.jpg" alt="Register Page" width="300" height="600">
+<img src="assets/IMG-20230204-WA0038.jpg" alt="Register Page" width="300" height="600">
+<img src="assets/IMG-20230204-WA0039.jpg" alt="Register Page" width="300" height="600">
+<img src="assets/IMG-20230204-WA0040.jpg" alt="Register Page" width="300" height="600">
